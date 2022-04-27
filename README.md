@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HemmatiRoozbeh
-- 👀 I’m interested in PLanning and Project Control, Excel, Programming(VBA & Python)
+- 👀 I’m interested in Planning and Project Control, Excel, Programming(VBA & Python)
 - 🌱 I’m currently learning Python & Photoshop
 - 💞️ I’m looking to collaborate on planning and excel affairs.
 - 📫 You can reach me via: 
